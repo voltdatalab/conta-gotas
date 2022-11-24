@@ -113,7 +113,7 @@ Seguem os prints do caminho.
 
 * No canto superior direito, clique na setinha para baixo (_não_ no ícone azul) e em "manage accounts"
 
-![](https://github.com/voltdatalab/nucleo-imagens/blob/main/graficos-site/Captura%20de%20Tela%202022-11-24%20às%2001.12.03.png?raw=true)
+![](https://live.staticflickr.com/65535/52520526880_89b6cd80e4_o.png)
 
 * Clique em conectar 
 
@@ -121,7 +121,7 @@ Seguem os prints do caminho.
 
 * Escolha a opção ShinyApps.io
 
-![](https://github.com/voltdatalab/nucleo-imagens/blob/main/graficos-site/Captura%20de%20Tela%202022-11-24%20às%2001.12.21.png?raw=true)
+![](https://live.staticflickr.com/65535/52520326069_a37476e6f1_o.png)
 
 * Adicione seu token ali (só copiar e colar o que o Shinyapps fornece)
 
