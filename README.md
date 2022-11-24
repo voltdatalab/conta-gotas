@@ -8,7 +8,7 @@
 
 Esse é um aplicativo simples, desenvolvido em cima de R/Shiny e Google Sheets, para visualizar de maneira simples, gratuita e direta a contabilidade e balanço de pequenas empresas. Às vezes é melhor do que ficar se virando com um monte de planilhas.
 
-![](https://raw.githubusercontent.com/voltdatalab/nucleo-imagens/main/graficos-site/Captura%20de%20Tela%202022-11-24%20às%2001.37.42.png)
+![](https://live.staticflickr.com/65535/52520048596_77894a46f8_b.jpg)
 
 Esse app é baseado em 2 componentes principais: 
 
@@ -117,15 +117,15 @@ Seguem os prints do caminho.
 
 * Clique em conectar 
 
-![](https://github.com/voltdatalab/nucleo-imagens/blob/main/graficos-site/newimg.png?raw=true)
+![](https://live.staticflickr.com/65535/52520326074_7ecfabb65e_o.png)
 
 * Escolha a opção ShinyApps.io
 
 ![](https://github.com/voltdatalab/nucleo-imagens/blob/main/graficos-site/Captura%20de%20Tela%202022-11-24%20às%2001.12.21.png?raw=true)
 
-* Adicione seu token ali
+* Adicione seu token ali (só copiar e colar o que o Shinyapps fornece)
 
-![](https://github.com/voltdatalab/nucleo-imagens/blob/main/graficos-site/Captura%20de%20Tela%202022-11-24%20às%2001.12.31.png?raw=true)
+![](https://live.staticflickr.com/65535/52520526890_7a8aa0f12d_o.png)
 
 Já que tem coisa boa já pronta, esse passo basta ir direto pro blog do pessoal do Curso-R (inclusive recomendo que façam os cursos deles). [Aqui o link de referência](https://blog.curso-r.com/posts/2020-06-18-shinyappsio/).
 
