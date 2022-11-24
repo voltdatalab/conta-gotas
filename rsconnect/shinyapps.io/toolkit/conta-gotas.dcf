@@ -1,0 +1,13 @@
+name: conta-gotas
+title: conta-gotas
+username:
+account: toolkit
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7720754
+bundleId: 6549544
+url: https://toolkit.shinyapps.io/conta-gotas/
+when: 1669264438.85993
+lastSyncTime: 1669264438.85994
+asMultiple: FALSE
+asStatic: FALSE

@@ -1,6 +1,14 @@
 # CONTA GOTAS
 
+[Veja uma versão funcional do app aqui](https://toolkit.shinyapps.io/conta-gotas/)
+
+* usuário: _admin_
+
+* senha: _abelhasmatadoras_
+
 Esse é um aplicativo simples, desenvolvido em cima de R/Shiny e Google Sheets, para visualizar de maneira simples, gratuita e direta a contabilidade e balanço de pequenas empresas. Às vezes é melhor do que ficar se virando com um monte de planilhas.
+
+![](https://raw.githubusercontent.com/voltdatalab/nucleo-imagens/main/graficos-site/Captura%20de%20Tela%202022-11-24%20às%2001.37.42.png)
 
 Esse app é baseado em 2 componentes principais: 
 
@@ -93,7 +101,11 @@ Lembrando que tudo o que você precisa fazer é substituir a URL pelos dados de 
 ## Passo 3
 #### Deploy no Shinyapps
 
-Crie uma conta gratuita no [Shinyapps](https://www.shinyapps.io).
+Crie uma conta gratuita no [Shinyapps](https://www.shinyapps.io), e instale a biblioteca `rsconnect` no seu R. 
+
+```
+install.packages('rsconnect')
+```
 
 Basicamente, dentro do RStudio tem um botão que envia sua aplicação diretamente para o Shinyapps. É bem fácil mesmo. 
 
